@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!doctype html>
+<html>
+<body>
+<h1> The Proxy Server has encountered an Error: </h1>
+<p> Code 30: This site has been temporarily moved. </p>
+<p> we will attempt to redirect you to the new site. </p>
+</body>
+</html>

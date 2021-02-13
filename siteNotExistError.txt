@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!doctype html>
+<html>
+<body>
+<h1> The Proxy Server has encountered an Error: </h1>
+<p> Code 10: This site does not exist. </p>
+<p> please try another site, or try again later. </p>
+</body>
+</html>

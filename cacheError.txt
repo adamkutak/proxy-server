@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!doctype html>
+<html>
+<body>
+<h1> The Proxy Server has encountered an Error: </h1>
+<p> Code 70: the cache failed to load requested object. </p>
+<p> The cached object likely didn't save correctly.</p>
+</body>
+</html>

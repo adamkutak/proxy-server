@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!doctype html>
+<html>
+<body>
+<h1> The Proxy Server has encountered an Error: </h1>
+<p> Code 50: no such file exists. </p>
+<p> We were able to connect to the site, but the file you requested doesn't exist. </p>
+</body>
+</html>

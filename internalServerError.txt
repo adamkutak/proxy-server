@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!doctype html>
+<html>
+<body>
+<h1> The Proxy Server has encountered an Error: </h1>
+<p> Code 60: the server encountered an unknown error. </p>
+<p> We are unsure what caused this. The server may be down right now, please try again later.</p>
+</body>
+</html>

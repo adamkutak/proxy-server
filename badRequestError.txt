@@ -1,0 +1,11 @@
+HTTP/1.1 200 OK
+Content-Type: text/html
+
+<!doctype html>
+<html>
+<body>
+<h1> The Proxy Server has encountered an Error: </h1>
+<p> Code 40: invalid request made to site. </p>
+<p> your url may be incorrect, consider editing it and resending. </p>
+</body>
+</html>
